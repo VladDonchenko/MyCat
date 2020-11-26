@@ -1,0 +1,14 @@
+--- !ruby/object:Cat
+name: Bobik
+age: '9'
+sleep: 60
+full_stomach: 80
+funny: 50
+toilet: 42
+clean: 98
+health: 100
+shower: 100
+emoji: "&#128522;"
+html: !ruby/object:Remaker {}
+username: '123'
+password: '123'

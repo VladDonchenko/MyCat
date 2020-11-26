@@ -1,0 +1,14 @@
+--- !ruby/object:Cat
+name: Myrchik
+age: '2'
+sleep: 0
+full_stomach: 100
+funny: 100
+toilet: 0
+clean: 100
+health: 100
+shower: 100
+emoji: "&#128513;"
+html: !ruby/object:Remaker {}
+username: '1'
+password: '1'
